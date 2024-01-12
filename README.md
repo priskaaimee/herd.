@@ -16,3 +16,9 @@ Here is our progress:
 ![Sign Up](https://github.com/priskaaimee/herd./assets/147493955/3f7022d6-506f-4086-9b6b-612d8f88c37e)
 3. Log In Page
 ![Log In](https://github.com/priskaaimee/herd./assets/147493955/6333ed45-ffe4-4648-bafa-5ba308c8f40f)
+
+Out Team:
+1. Daisy Christina Gunawan - Hipster
+2. Evan Aditya Chandra - Hacker
+3. Priska Aimee Likarsa - Hacker
+4. Samuel Theodore Gunawan - Hustler
