@@ -6,7 +6,8 @@ herd. stands for Health, Education, Resources, and Dignity.
 It is an app dedicated to empowering young girls and women in Indonesia through education, equality, and community support. 
 It provides resources for girls with unexpected pregnancies that are in unsafe living environments, girls who are forced to marry young due to economic problems (viewed as assets by their family), girls who are forced to marry young to cover-up an unexpected pregnancies (r*pe or not) because their family considers it as a sin.
 
-With herd., we can make changes. 
+In this app, you can share your stories, make friends, and gain more knowledge.
+With herd., we aim to break the barriers and make changes!
 
 Here is our progress:
 1. Main Page
