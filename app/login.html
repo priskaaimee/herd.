@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+
+    <form class="pick" >
+      <h2>Do you want to login or sign up?</h2>
+      <button class="pickLogin">LOGIN</button>
+      <button class="pickSignUp">SIGNUP</button>
+    </form>
+
+    <button class="back" hidden>back</button>
+
+    <form class="signup" hidden>
+      <h2>Please enter your email and password</h2>
+      <label for="email">email:</label>
+      <input type="email" name="email" />
+      <label for="password">password:</label>
+      <input type="password" name="password" />
+      <button>signup</button>
+    </form>
+
+    <form class="login" hidden>
+      <h2>Please enter your login credentials</h2>
+      <label for="email">email:</label>
+      <input type="email" name="email" />
+      <label for="password">password:</label>
+      <input type="password" name="password" />
+      <button>login</button>
+    </form>
+
+    <button class="logout" hidden>logout</button>
+    <script src="herd.js"></script>
+
+    <div id="messageContainer"></div>
+
+  </body>
+</html>
